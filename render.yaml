@@ -1,5 +1,5 @@
 ---
-services:
+services:https://mcp.render.com/mcp
 - type: web
   name: mcp
   runtime: go
